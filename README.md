@@ -42,7 +42,9 @@ Animating characters [mixamo](https://www.mixamo.com)
 
 Audio library [youtube](https://www.youtube.com/audiolibrary/music)
 
-## licence
+## license
+
+3D models were donated from Mohamed Ababou, thanks for his generesity
 
 We don't want to restrict you with any requirements regarding resources use
 so the Character and Fez along with their textures are licensed under CC0 public domain dedication.
