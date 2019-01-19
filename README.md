@@ -36,7 +36,7 @@ ffmpeg -i prepared/Sahara_Rains.mp3 -c:a aac -b:a 192k  prepared/Sahara_Rains_mo
 
 Spark AR studio [website](https://www.sparkar.com/ar-studio/)
 
-3D Modeling software [blender](https://www.sparkar.com/ar-studio/)
+3D Modeling software [blender](https://www.blender.org/)
 
 Animating characters [mixamo](https://www.mixamo.com)
 
