@@ -4,15 +4,15 @@ DevC Casablanca resources for playing with Spark AR studio
 
 ## Devc-Casablanca Challenge
 
-Use the fez model and it's texture to build a face tracker effect for facebook and instagram.
+Use the fez model and its texture to build a face tracker effect for facebook and instagram.
 
-Resources are available in challenge folder, make sure to convert the texture to a supported image format for Spark AR studio.
+Resources are available in challenge folder, make sure to convert the texture to a supported image format for Spark AR Studio.
 
 Surprise us and post your creative idea in the group [devc-casa](https://www.facebook.com/groups/DevC.Casablanca/)
 
 ## Encoding audio
 
-To be able to use audio in Spark AR Studio you will need to encode you audio file
+To be able to use audio in Spark AR Studio you will need to encode your audio file
 
 Convert audio from stereo to mono
 
@@ -44,7 +44,7 @@ Audio library [youtube](https://www.youtube.com/audiolibrary/music)
 
 ## licence
 
-We son't want to restrict you with any requirement regarding resources use
-so the Character and Fez along their textures are licensed CC0 public domain dedication.
+We don't want to restrict you with any requirements regarding resources use
+so the Character and Fez along with their textures are licensed under CC0 public domain dedication.
 
 As for the belly dance animation please fellow mixamo.com license guidance from adobe, we strongly recommend that you use the idle character and apply the animation you like and use that version in your project.
