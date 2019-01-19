@@ -41,3 +41,10 @@ Spark AR studio [website](https://www.sparkar.com/ar-studio/)
 Animating characters [mixamo](https://www.mixamo.com)
 
 Audio library [youtube](https://www.youtube.com/audiolibrary/music)
+
+## licence
+
+We son't want to restrict you with any requirement regarding resources use
+so the Character and Fez along their textures are licensed CC0 public domain dedication.
+
+As for the belly dance animation please fellow mixamo.com license guidance from adobe, we strongly recommend that you use the idle character and apply the animation you like and use that version in your project.
