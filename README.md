@@ -42,7 +42,12 @@ Animating characters [mixamo](https://www.mixamo.com)
 
 Audio library [youtube](https://www.youtube.com/audiolibrary/music)
 
-## license
+## Example
+Example of resource used in a Game prototype
+
+[![Watch game prototype video](https://img.youtube.com/vi/T-QW9PLHdQc/hqdefault.jpg)](https://youtu.be/T-QW9PLHdQc)
+
+## License
 
 3D models were donated from Mohamed Ababou, thanks for his generosity
 
